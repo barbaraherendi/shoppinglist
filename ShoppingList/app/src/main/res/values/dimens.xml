@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="font_size_sum">22sp</dimen>
+    <dimen name="font_size_cat">18sp</dimen>
+    <dimen name="font_stat">25sp</dimen>
+    <dimen name="font_stat_in_ex">21sp</dimen>
+    <dimen name="stat_pic_size">52dip</dimen>
+    <dimen name="font_stat_cat_size">18sp</dimen>
+    <dimen name="stat_pic_size_main">64dip</dimen>
+    <dimen name="font_account_sum">32dp</dimen>
+    <dimen name="small_margin">6dip</dimen>
+    <dimen name="sum_font_size">18sp</dimen>
+    <dimen name="icon_padding">8dip</dimen>
+    <dimen name="line_wid">1dp</dimen>
+    <dimen name="icon_size">50dp</dimen>
+</resources>
